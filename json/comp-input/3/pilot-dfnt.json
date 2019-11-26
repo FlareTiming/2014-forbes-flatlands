@@ -1,0 +1,90 @@
+[
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0.36397494498053157,
+        "awardedMade": "55.900000 km",
+        "awardedTask": "153.582000 km"
+      },
+      "flown": {
+        "awardedFrac": 0.36397494498053157,
+        "awardedMade": "55.900000 km",
+        "awardedTask": "153.582000 km"
+      }
+    },
+    "pilot": [
+      "25",
+      "Ai Fukutomi"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": "2013-12-30T03:33:00Z"
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "153.582000 km"
+      },
+      "flown": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "153.582000 km"
+      }
+    },
+    "pilot": [
+      "6",
+      "Akiko Suzuki"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0.4301285306871899,
+        "awardedMade": "66.060000 km",
+        "awardedTask": "153.582000 km"
+      },
+      "flown": {
+        "awardedFrac": 0.4301285306871899,
+        "awardedMade": "66.060000 km",
+        "awardedTask": "153.582000 km"
+      }
+    },
+    "pilot": [
+      "64",
+      "Hadewych van Kempen"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": "2013-12-30T03:31:00Z"
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "153.582000 km"
+      },
+      "flown": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "153.582000 km"
+      }
+    },
+    "pilot": [
+      "56",
+      "Maximilian Respondek"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  }
+]

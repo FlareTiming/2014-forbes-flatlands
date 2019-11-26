@@ -1,0 +1,112 @@
+[
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0.2921749540735236,
+        "awardedMade": "42.465000 km",
+        "awardedTask": "145.341000 km"
+      },
+      "flown": {
+        "awardedFrac": 0.2921749540735236,
+        "awardedMade": "42.465000 km",
+        "awardedTask": "145.341000 km"
+      }
+    },
+    "pilot": [
+      "25",
+      "Ai Fukutomi"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": "2013-12-28T03:01:00Z"
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0.5711051939920601,
+        "awardedMade": "83.005000 km",
+        "awardedTask": "145.341000 km"
+      },
+      "flown": {
+        "awardedFrac": 0.5711051939920601,
+        "awardedMade": "83.005000 km",
+        "awardedTask": "145.341000 km"
+      }
+    },
+    "pilot": [
+      "6",
+      "Akiko Suzuki"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": "2013-12-28T03:01:00Z"
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "145.341000 km"
+      },
+      "flown": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "145.341000 km"
+      }
+    },
+    "pilot": [
+      "64",
+      "Hadewych van Kempen"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "145.341000 km"
+      },
+      "flown": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "145.341000 km"
+      }
+    },
+    "pilot": [
+      "59",
+      "Hanspeter Schütz"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 1.0000068803709896,
+        "awardedMade": "145.342000 km",
+        "awardedTask": "145.341000 km"
+      },
+      "flown": {
+        "awardedFrac": 1.0000068803709896,
+        "awardedMade": "145.342000 km",
+        "awardedTask": "145.341000 km"
+      }
+    },
+    "pilot": [
+      "53",
+      "Kathryn O'Riordan"
+    ],
+    "awardedVelocity": {
+      "es": "2013-12-28T07:06:27Z",
+      "ss": "2013-12-28T03:14:55Z"
+    }
+  }
+]

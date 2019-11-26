@@ -1,0 +1,266 @@
+[
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "151.506000 km"
+      },
+      "flown": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "151.506000 km"
+      }
+    },
+    "pilot": [
+      "6",
+      "Akiko Suzuki"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0.7084339894129605,
+        "awardedMade": "107.332000 km",
+        "awardedTask": "151.506000 km"
+      },
+      "flown": {
+        "awardedFrac": 0.7084339894129605,
+        "awardedMade": "107.332000 km",
+        "awardedTask": "151.506000 km"
+      }
+    },
+    "pilot": [
+      "50",
+      "Conrad Loten"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": "2014-01-01T03:01:00Z"
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0.5129301809829314,
+        "awardedMade": "77.712000 km",
+        "awardedTask": "151.506000 km"
+      },
+      "flown": {
+        "awardedFrac": 0.5129301809829314,
+        "awardedMade": "77.712000 km",
+        "awardedTask": "151.506000 km"
+      }
+    },
+    "pilot": [
+      "36",
+      "Enda Murphy"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": "2014-01-01T03:01:00Z"
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0.5300846171108735,
+        "awardedMade": "80.311000 km",
+        "awardedTask": "151.506000 km"
+      },
+      "flown": {
+        "awardedFrac": 0.5300846171108735,
+        "awardedMade": "80.311000 km",
+        "awardedTask": "151.506000 km"
+      }
+    },
+    "pilot": [
+      "34",
+      "Glen Mcfarlane"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": "2014-01-01T03:01:00Z"
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "151.506000 km"
+      },
+      "flown": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "151.506000 km"
+      }
+    },
+    "pilot": [
+      "64",
+      "Hadewych van Kempen"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0.7257666363048328,
+        "awardedMade": "109.958000 km",
+        "awardedTask": "151.506000 km"
+      },
+      "flown": {
+        "awardedFrac": 0.7257666363048328,
+        "awardedMade": "109.958000 km",
+        "awardedTask": "151.506000 km"
+      }
+    },
+    "pilot": [
+      "39",
+      "Jonny Durand"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": "2014-01-01T03:01:00Z"
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "151.506000 km"
+      },
+      "flown": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "151.506000 km"
+      }
+    },
+    "pilot": [
+      "21",
+      "Neil Petersen"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0.5395825907884836,
+        "awardedMade": "81.750000 km",
+        "awardedTask": "151.506000 km"
+      },
+      "flown": {
+        "awardedFrac": 0.5395825907884836,
+        "awardedMade": "81.750000 km",
+        "awardedTask": "151.506000 km"
+      }
+    },
+    "pilot": [
+      "52",
+      "Olav Olsen"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": "2014-01-01T03:01:00Z"
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0.5091085501564294,
+        "awardedMade": "77.133000 km",
+        "awardedTask": "151.506000 km"
+      },
+      "flown": {
+        "awardedFrac": 0.5091085501564294,
+        "awardedMade": "77.133000 km",
+        "awardedTask": "151.506000 km"
+      }
+    },
+    "pilot": [
+      "30",
+      "Phil Schroder"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": "2014-01-01T03:01:00Z"
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0.6071310707166713,
+        "awardedMade": "91.984000 km",
+        "awardedTask": "151.506000 km"
+      },
+      "flown": {
+        "awardedFrac": 0.6071310707166713,
+        "awardedMade": "91.984000 km",
+        "awardedTask": "151.506000 km"
+      }
+    },
+    "pilot": [
+      "43",
+      "Rod Flockhart"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": "2014-01-01T03:01:00Z"
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0.5965704328541444,
+        "awardedMade": "90.384000 km",
+        "awardedTask": "151.506000 km"
+      },
+      "flown": {
+        "awardedFrac": 0.5965704328541444,
+        "awardedMade": "90.384000 km",
+        "awardedTask": "151.506000 km"
+      }
+    },
+    "pilot": [
+      "24",
+      "Steve Blenkinsop"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": "2014-01-01T03:01:00Z"
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0.22847279975710533,
+        "awardedMade": "34.615000 km",
+        "awardedTask": "151.506000 km"
+      },
+      "flown": {
+        "awardedFrac": 0.22847279975710533,
+        "awardedMade": "34.615000 km",
+        "awardedTask": "151.506000 km"
+      }
+    },
+    "pilot": [
+      "7",
+      "Tony Giammichele"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": "2014-01-01T03:01:00Z"
+    }
+  }
+]

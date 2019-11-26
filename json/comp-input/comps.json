@@ -1,0 +1,22 @@
+{
+  "civilId": "9182",
+  "earthMath": "Haversines",
+  "discipline": "hg",
+  "location": "Forbes, Australia",
+  "to": "2014-01-04",
+  "compName": "Australian National Hang Gliding Championships 2014",
+  "from": "2013-12-28",
+  "utcOffset": {
+    "timeZoneMinutes": 660
+  },
+  "earth": {
+    "sphere": {
+      "radius": "6371000.0 m"
+    }
+  },
+  "give": {
+    "giveDistance": null,
+    "giveFraction": 0.005
+  },
+  "scoreBack": null
+}

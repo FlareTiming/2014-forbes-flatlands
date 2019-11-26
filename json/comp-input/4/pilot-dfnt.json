@@ -1,0 +1,112 @@
+[
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "155.747000 km"
+      },
+      "flown": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "155.747000 km"
+      }
+    },
+    "pilot": [
+      "25",
+      "Ai Fukutomi"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0.1886135848523567,
+        "awardedMade": "29.376000 km",
+        "awardedTask": "155.747000 km"
+      },
+      "flown": {
+        "awardedFrac": 0.1886135848523567,
+        "awardedMade": "29.376000 km",
+        "awardedTask": "155.747000 km"
+      }
+    },
+    "pilot": [
+      "64",
+      "Hadewych van Kempen"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": "2013-12-31T03:16:00Z"
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0.25682677675974497,
+        "awardedMade": "40.000000 km",
+        "awardedTask": "155.747000 km"
+      },
+      "flown": {
+        "awardedFrac": 0.25682677675974497,
+        "awardedMade": "40.000000 km",
+        "awardedTask": "155.747000 km"
+      }
+    },
+    "pilot": [
+      "35",
+      "Jamie Shelden"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": "2013-12-31T03:16:00Z"
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "155.747000 km"
+      },
+      "flown": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "155.747000 km"
+      }
+    },
+    "pilot": [
+      "58",
+      "Mark Russell"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "155.747000 km"
+      },
+      "flown": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "155.747000 km"
+      }
+    },
+    "pilot": [
+      "5",
+      "Ryosuke Hattori"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  }
+]

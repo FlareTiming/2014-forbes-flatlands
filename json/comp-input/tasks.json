@@ -1,0 +1,795 @@
+[
+  {
+    "taskName": "Task 1 - Child of god",
+    "zones": {
+      "raw": [
+        {
+          "giveIn": "398.0 m",
+          "radius": "400.0 m",
+          "giveOut": "402.0 m",
+          "lat": -33.3608,
+          "zoneName": "FORBE",
+          "lng": 147.932,
+          "alt": null
+        },
+        {
+          "giveIn": "4975.0 m",
+          "radius": "5000.0 m",
+          "giveOut": "5025.0 m",
+          "lat": -33.3608,
+          "zoneName": "FORBE",
+          "lng": 147.932,
+          "alt": null
+        },
+        {
+          "giveIn": "398.0 m",
+          "radius": "400.0 m",
+          "giveOut": "402.0 m",
+          "lat": -33.8596,
+          "zoneName": "GRENF",
+          "lng": 148.1121,
+          "alt": null
+        },
+        {
+          "giveIn": "398.0 m",
+          "radius": "400.0 m",
+          "giveOut": "402.0 m",
+          "lat": -33.61957,
+          "zoneName": "GOOLOO",
+          "lng": 148.41023,
+          "alt": null
+        },
+        {
+          "giveIn": "398.0 m",
+          "radius": "400.0 m",
+          "giveOut": "402.0 m",
+          "lat": -33.55378,
+          "zoneName": "CANOWI",
+          "lng": 148.67147,
+          "alt": null
+        },
+        {
+          "giveIn": "398.0 m",
+          "radius": "400.0 m",
+          "giveOut": "402.0 m",
+          "lat": -33.73932,
+          "zoneName": "WOODST",
+          "lng": 148.84062,
+          "alt": null
+        }
+      ],
+      "raceKind": {
+        "race-ess-is-goal": {
+          "circle": {
+            "radius": "400.0 m",
+            "center": [
+              "-33.73932000 deg",
+              "148.84062000 deg"
+            ]
+          }
+        },
+        "race": [
+          {
+            "cylinder": {
+              "radius": "5000.0 m",
+              "center": [
+                "-33.36080000 deg",
+                "147.93200000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.85960000 deg",
+                "148.11210000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.61957000 deg",
+                "148.41023000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.55378000 deg",
+                "148.67147000 deg"
+              ]
+            }
+          }
+        ],
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.36080000 deg",
+                "147.93200000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      6
+    ],
+    "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": 0,
+      "leadingWeightScaling": 0
+    },
+    "startGates": [
+      "2013-12-28T03:00:00Z",
+      "2013-12-28T03:20:00Z",
+      "2013-12-28T03:40:00Z"
+    ],
+    "penals": [],
+    "zoneTimes": [
+      {
+        "close": "2013-12-28T09:00:00Z",
+        "open": "2013-12-28T01:00:00Z"
+      }
+    ],
+    "earlyStart": {
+      "earlyPenalty": "0 s",
+      "earliest": "300 s"
+    }
+  },
+  {
+    "taskName": "Task 2 - Blown Away",
+    "zones": {
+      "raw": [
+        {
+          "giveIn": "398.0 m",
+          "radius": "400.0 m",
+          "giveOut": "402.0 m",
+          "lat": -33.3608,
+          "zoneName": "FORBE",
+          "lng": 147.932,
+          "alt": null
+        },
+        {
+          "giveIn": "14925.0 m",
+          "radius": "15000.0 m",
+          "giveOut": "15075.0 m",
+          "lat": -33.3608,
+          "zoneName": "FORBE",
+          "lng": 147.932,
+          "alt": null
+        },
+        {
+          "giveIn": "398.0 m",
+          "radius": "400.0 m",
+          "giveOut": "402.0 m",
+          "lat": -31.9798,
+          "zoneName": "TRANG",
+          "lng": 148.0035,
+          "alt": null
+        }
+      ],
+      "raceKind": {
+        "race-ess-is-goal": {
+          "circle": {
+            "radius": "400.0 m",
+            "center": [
+              "-31.97980000 deg",
+              "148.00350000 deg"
+            ]
+          }
+        },
+        "race": [
+          {
+            "cylinder": {
+              "radius": "15000.0 m",
+              "center": [
+                "-33.36080000 deg",
+                "147.93200000 deg"
+              ]
+            }
+          }
+        ],
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.36080000 deg",
+                "147.93200000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      3
+    ],
+    "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": 0,
+      "leadingWeightScaling": 0
+    },
+    "startGates": [
+      "2013-12-29T03:00:00Z",
+      "2013-12-29T03:15:00Z",
+      "2013-12-29T03:30:00Z",
+      "2013-12-29T03:45:00Z"
+    ],
+    "penals": [],
+    "zoneTimes": [
+      {
+        "close": "2013-12-29T09:00:00Z",
+        "open": "2013-12-29T01:00:00Z"
+      }
+    ],
+    "earlyStart": {
+      "earlyPenalty": "0 s",
+      "earliest": "300 s"
+    }
+  },
+  {
+    "taskName": "Task 3 - TCDSay",
+    "zones": {
+      "raw": [
+        {
+          "giveIn": "398.0 m",
+          "radius": "400.0 m",
+          "giveOut": "402.0 m",
+          "lat": -33.3608,
+          "zoneName": "FORBE",
+          "lng": 147.932,
+          "alt": null
+        },
+        {
+          "giveIn": "9950.0 m",
+          "radius": "10000.0 m",
+          "giveOut": "10050.0 m",
+          "lat": -33.3608,
+          "zoneName": "FORBE",
+          "lng": 147.932,
+          "alt": null
+        },
+        {
+          "giveIn": "10945.0 m",
+          "radius": "11000.0 m",
+          "giveOut": "11055.0 m",
+          "lat": -32.56608,
+          "zoneName": "TOMING",
+          "lng": 148.22657,
+          "alt": null
+        },
+        {
+          "giveIn": "398.0 m",
+          "radius": "400.0 m",
+          "giveOut": "402.0 m",
+          "lat": -32.4636,
+          "zoneName": "WELLIN",
+          "lng": 148.9885,
+          "alt": null
+        }
+      ],
+      "raceKind": {
+        "race-ess-is-goal": {
+          "circle": {
+            "radius": "400.0 m",
+            "center": [
+              "-32.46360000 deg",
+              "148.98850000 deg"
+            ]
+          }
+        },
+        "race": [
+          {
+            "cylinder": {
+              "radius": "10000.0 m",
+              "center": [
+                "-33.36080000 deg",
+                "147.93200000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "11000.0 m",
+              "center": [
+                "-32.56608000 deg",
+                "148.22657000 deg"
+              ]
+            }
+          }
+        ],
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.36080000 deg",
+                "147.93200000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      4
+    ],
+    "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": 0,
+      "leadingWeightScaling": 0
+    },
+    "startGates": [
+      "2013-12-30T03:30:00Z",
+      "2013-12-30T03:50:00Z",
+      "2013-12-30T04:10:00Z"
+    ],
+    "penals": [],
+    "zoneTimes": [
+      {
+        "close": "2013-12-30T09:00:00Z",
+        "open": "2013-12-30T01:00:00Z"
+      }
+    ],
+    "earlyStart": {
+      "earlyPenalty": "0 s",
+      "earliest": "300 s"
+    }
+  },
+  {
+    "taskName": "Task 4 - Greased Lightning",
+    "zones": {
+      "raw": [
+        {
+          "giveIn": "398.0 m",
+          "radius": "400.0 m",
+          "giveOut": "402.0 m",
+          "lat": -33.3608,
+          "zoneName": "FORBE",
+          "lng": 147.932,
+          "alt": null
+        },
+        {
+          "giveIn": "9950.0 m",
+          "radius": "10000.0 m",
+          "giveOut": "10050.0 m",
+          "lat": -33.3608,
+          "zoneName": "FORBE",
+          "lng": 147.932,
+          "alt": null
+        },
+        {
+          "giveIn": "4975.0 m",
+          "radius": "5000.0 m",
+          "giveOut": "5025.0 m",
+          "lat": -32.76052,
+          "zoneName": "YEOVAL",
+          "lng": 148.64958,
+          "alt": null
+        },
+        {
+          "giveIn": "4975.0 m",
+          "radius": "5000.0 m",
+          "giveOut": "5025.0 m",
+          "lat": -32.93492,
+          "zoneName": "CUMNOC",
+          "lng": 148.75057,
+          "alt": null
+        },
+        {
+          "giveIn": "398.0 m",
+          "radius": "400.0 m",
+          "giveOut": "402.0 m",
+          "lat": -32.4636,
+          "zoneName": "WELLIN",
+          "lng": 148.9885,
+          "alt": null
+        }
+      ],
+      "raceKind": {
+        "race-ess-is-goal": {
+          "circle": {
+            "radius": "400.0 m",
+            "center": [
+              "-32.46360000 deg",
+              "148.98850000 deg"
+            ]
+          }
+        },
+        "race": [
+          {
+            "cylinder": {
+              "radius": "10000.0 m",
+              "center": [
+                "-33.36080000 deg",
+                "147.93200000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "5000.0 m",
+              "center": [
+                "-32.76052000 deg",
+                "148.64958000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "5000.0 m",
+              "center": [
+                "-32.93492000 deg",
+                "148.75057000 deg"
+              ]
+            }
+          }
+        ],
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.36080000 deg",
+                "147.93200000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      5
+    ],
+    "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": 0,
+      "leadingWeightScaling": 0
+    },
+    "startGates": [
+      "2013-12-31T03:15:00Z",
+      "2013-12-31T03:35:00Z",
+      "2013-12-31T03:55:00Z"
+    ],
+    "penals": [],
+    "zoneTimes": [
+      {
+        "close": "2013-12-31T09:00:00Z",
+        "open": "2013-12-31T01:00:00Z"
+      }
+    ],
+    "earlyStart": {
+      "earlyPenalty": "0 s",
+      "earliest": "300 s"
+    }
+  },
+  {
+    "taskName": "Task 5 - Find Your Own Fxx Pad",
+    "zones": {
+      "raw": [
+        {
+          "giveIn": "398.0 m",
+          "radius": "400.0 m",
+          "giveOut": "402.0 m",
+          "lat": -33.3608,
+          "zoneName": "FORBE",
+          "lng": 147.932,
+          "alt": null
+        },
+        {
+          "giveIn": "9950.0 m",
+          "radius": "10000.0 m",
+          "giveOut": "10050.0 m",
+          "lat": -33.3608,
+          "zoneName": "FORBE",
+          "lng": 147.932,
+          "alt": null
+        },
+        {
+          "giveIn": "12935.0 m",
+          "radius": "13000.0 m",
+          "giveOut": "13065.0 m",
+          "lat": -34.11795,
+          "zoneName": "CROW",
+          "lng": 148.5013,
+          "alt": null
+        },
+        {
+          "giveIn": "995.0 m",
+          "radius": "1000.0 m",
+          "giveOut": "1005.0 m",
+          "lat": -34.49978,
+          "zoneName": "STOCKI",
+          "lng": 147.89785,
+          "alt": null
+        }
+      ],
+      "raceKind": {
+        "race-ess-is-goal": {
+          "circle": {
+            "radius": "1000.0 m",
+            "center": [
+              "-34.49978000 deg",
+              "147.89785000 deg"
+            ]
+          }
+        },
+        "race": [
+          {
+            "cylinder": {
+              "radius": "10000.0 m",
+              "center": [
+                "-33.36080000 deg",
+                "147.93200000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "13000.0 m",
+              "center": [
+                "-34.11795000 deg",
+                "148.50130000 deg"
+              ]
+            }
+          }
+        ],
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.36080000 deg",
+                "147.93200000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      4
+    ],
+    "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": 0,
+      "leadingWeightScaling": 0
+    },
+    "startGates": [
+      "2014-01-01T03:00:00Z",
+      "2014-01-01T03:30:00Z"
+    ],
+    "penals": [],
+    "zoneTimes": [
+      {
+        "close": "2014-01-01T09:00:00Z",
+        "open": "2014-01-01T01:00:00Z"
+      }
+    ],
+    "earlyStart": {
+      "earlyPenalty": "0 s",
+      "earliest": "300 s"
+    }
+  },
+  {
+    "taskName": "Task 6 - Attila Killer",
+    "zones": {
+      "raw": [
+        {
+          "giveIn": "398.0 m",
+          "radius": "400.0 m",
+          "giveOut": "402.0 m",
+          "lat": -33.3608,
+          "zoneName": "FORBE",
+          "lng": 147.932,
+          "alt": null
+        },
+        {
+          "giveIn": "9950.0 m",
+          "radius": "10000.0 m",
+          "giveOut": "10050.0 m",
+          "lat": -33.3608,
+          "zoneName": "FORBE",
+          "lng": 147.932,
+          "alt": null
+        },
+        {
+          "giveIn": "398.0 m",
+          "radius": "400.0 m",
+          "giveOut": "402.0 m",
+          "lat": -34.4631,
+          "zoneName": "BOOROW",
+          "lng": 148.7032,
+          "alt": null
+        },
+        {
+          "giveIn": "398.0 m",
+          "radius": "400.0 m",
+          "giveOut": "402.0 m",
+          "lat": -34.7157,
+          "zoneName": "DALTON",
+          "lng": 149.19338,
+          "alt": null
+        }
+      ],
+      "raceKind": {
+        "race-ess-is-goal": {
+          "circle": {
+            "radius": "400.0 m",
+            "center": [
+              "-34.71570000 deg",
+              "149.19338000 deg"
+            ]
+          }
+        },
+        "race": [
+          {
+            "cylinder": {
+              "radius": "10000.0 m",
+              "center": [
+                "-33.36080000 deg",
+                "147.93200000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-34.46310000 deg",
+                "148.70320000 deg"
+              ]
+            }
+          }
+        ],
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.36080000 deg",
+                "147.93200000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      4
+    ],
+    "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": 0,
+      "leadingWeightScaling": 0
+    },
+    "startGates": [
+      "2014-01-03T03:00:00Z",
+      "2014-01-03T03:30:00Z"
+    ],
+    "penals": [],
+    "zoneTimes": [
+      {
+        "close": "2014-01-03T09:00:00Z",
+        "open": "2014-01-03T01:00:00Z"
+      }
+    ],
+    "earlyStart": {
+      "earlyPenalty": "0 s",
+      "earliest": "300 s"
+    }
+  },
+  {
+    "taskName": "Task 7 - 126.7",
+    "zones": {
+      "raw": [
+        {
+          "giveIn": "398.0 m",
+          "radius": "400.0 m",
+          "giveOut": "402.0 m",
+          "lat": -33.3608,
+          "zoneName": "FORBE",
+          "lng": 147.932,
+          "alt": null
+        },
+        {
+          "giveIn": "9950.0 m",
+          "radius": "10000.0 m",
+          "giveOut": "10050.0 m",
+          "lat": -33.3608,
+          "zoneName": "FORBE",
+          "lng": 147.932,
+          "alt": null
+        },
+        {
+          "giveIn": "398.0 m",
+          "radius": "400.0 m",
+          "giveOut": "402.0 m",
+          "lat": -32.01208,
+          "zoneName": "DUNED2",
+          "lng": 149.41763,
+          "alt": null
+        }
+      ],
+      "raceKind": {
+        "race-ess-is-goal": {
+          "circle": {
+            "radius": "400.0 m",
+            "center": [
+              "-32.01208000 deg",
+              "149.41763000 deg"
+            ]
+          }
+        },
+        "race": [
+          {
+            "cylinder": {
+              "radius": "10000.0 m",
+              "center": [
+                "-33.36080000 deg",
+                "147.93200000 deg"
+              ]
+            }
+          }
+        ],
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.36080000 deg",
+                "147.93200000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      3
+    ],
+    "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": 0,
+      "leadingWeightScaling": 0
+    },
+    "startGates": [
+      "2014-01-04T03:00:00Z",
+      "2014-01-04T03:30:00Z"
+    ],
+    "penals": [],
+    "zoneTimes": [
+      {
+        "close": "2014-01-04T09:00:00Z",
+        "open": "2014-01-04T01:00:00Z"
+      }
+    ],
+    "earlyStart": {
+      "earlyPenalty": "0 s",
+      "earliest": "300 s"
+    }
+  }
+]
