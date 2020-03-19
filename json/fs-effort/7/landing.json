@@ -10,7 +10,7 @@
     ],
     "sumOf": 3687
   },
-  "bestDistance": null,
+  "bestDistance": "203.697000 km",
   "difficulty": [
     {
       "endChunk": "5.1 km",
@@ -20,24 +20,40 @@
       "frac": 0.13832384,
       "downers": [
         [
-          "59",
-          "Hanspeter Schütz"
+          "22",
+          "Adam Jones"
+        ],
+        [
+          "6",
+          "Akiko Suzuki"
+        ],
+        [
+          "2",
+          "Andrew Barnes"
+        ],
+        [
+          "19",
+          "Andrew Luton"
         ],
         [
           "4",
           "Cameron Tunbridge"
         ],
         [
+          "36",
+          "Enda Murphy"
+        ],
+        [
+          "8",
+          "Federico Martini"
+        ],
+        [
           "64",
           "Hadewych van Kempen"
         ],
         [
-          "56",
-          "Maximilian Respondek"
-        ],
-        [
-          "6",
-          "Akiko Suzuki"
+          "59",
+          "Hanspeter Schütz"
         ],
         [
           "35",
@@ -48,6 +64,22 @@
           "Kathryn O'Riordan"
         ],
         [
+          "56",
+          "Maximilian Respondek"
+        ],
+        [
+          "16",
+          "Michael Tomlinson"
+        ],
+        [
+          "14",
+          "Mikhail Karmazin"
+        ],
+        [
+          "17",
+          "Peter Lamont"
+        ],
+        [
           "69",
           "Phil Seeley"
         ],
@@ -56,40 +88,8 @@
           "Rohan Taylor"
         ],
         [
-          "8",
-          "Federico Martini"
-        ],
-        [
-          "36",
-          "Enda Murphy"
-        ],
-        [
-          "19",
-          "Andrew Luton"
-        ],
-        [
-          "2",
-          "Andrew Barnes"
-        ],
-        [
-          "14",
-          "Mikhail Karmazin"
-        ],
-        [
           "5",
           "Ryosuke Hattori"
-        ],
-        [
-          "22",
-          "Adam Jones"
-        ],
-        [
-          "16",
-          "Michael Tomlinson"
-        ],
-        [
-          "17",
-          "Peter Lamont"
         ]
       ],
       "downward": 2,
@@ -422,6 +422,6 @@
     }
   ],
   "lookahead": 180,
-  "minDistance": "0.000 km",
+  "minDistance": "5.000 km",
   "landout": 34
 }

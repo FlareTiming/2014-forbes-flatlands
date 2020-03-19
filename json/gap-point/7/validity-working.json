@@ -1,13 +1,13 @@
 {
   "time": {
-    "ssBestTime": null,
+    "ssBestTime": "3.017636 h",
     "nominalDistance": "80.0 km",
     "nominalTime": "2.000000 h",
     "reachMax": {
-      "extra": "5.000000 km",
-      "flown": "5.000000 km"
+      "extra": "203.698097 km",
+      "flown": "203.698097 km"
     },
-    "gsBestTime": null
+    "gsBestTime": "3.022976 h"
   },
   "launch": {
     "flying": 49,
@@ -15,15 +15,15 @@
     "nominalLaunch": 0.96
   },
   "distance": {
-    "area": 45,
+    "area": 57.3698097,
     "flying": 49,
     "nominalGoal": 0.2,
     "nominalDistance": "80.0 km",
     "minimumDistance": "5.000 km",
-    "sum": "0.0 km",
+    "sum": "4287.7 km",
     "reachMax": {
-      "extra": "5.000000 km",
-      "flown": "5.000000 km"
+      "extra": "203.698097 km",
+      "flown": "203.698097 km"
     }
   },
   "stop": null

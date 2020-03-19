@@ -10,7 +10,7 @@
     ],
     "sumOf": 4178
   },
-  "bestDistance": null,
+  "bestDistance": "155.747000 km",
   "difficulty": [
     {
       "endChunk": "5.1 km",
@@ -20,16 +20,16 @@
       "frac": 0.04104835,
       "downers": [
         [
-          "5",
-          "Ryosuke Hattori"
-        ],
-        [
           "25",
           "Ai Fukutomi"
         ],
         [
           "58",
           "Mark Russell"
+        ],
+        [
+          "5",
+          "Ryosuke Hattori"
         ]
       ],
       "downward": 5,
@@ -410,20 +410,20 @@
       "frac": 0.4587123,
       "downers": [
         [
-          "50",
-          "Conrad Loten"
-        ],
-        [
           "23",
           "Anton Struganov"
+        ],
+        [
+          "50",
+          "Conrad Loten"
         ]
       ],
       "downward": 2,
       "rel": 0.0004787,
       "endAhead": "121.4 km",
       "downs": [
-        "104.181 km",
-        "104.129 km"
+        "104.129 km",
+        "104.181 km"
       ]
     },
     {
@@ -485,6 +485,6 @@
     }
   ],
   "lookahead": 173,
-  "minDistance": "0.000 km",
+  "minDistance": "5.000 km",
   "landout": 27
 }

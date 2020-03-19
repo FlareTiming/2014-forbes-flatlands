@@ -321,18 +321,8 @@
   ],
   [
     [
-      "59",
-      "Hanspeter Schütz"
-    ],
-    {
-      "frac": 0.07369668,
-      "effort": "5.000000 km"
-    }
-  ],
-  [
-    [
-      "64",
-      "Hadewych van Kempen"
+      "25",
+      "Ai Fukutomi"
     ],
     {
       "frac": 0.07369668,
@@ -351,8 +341,18 @@
   ],
   [
     [
-      "25",
-      "Ai Fukutomi"
+      "64",
+      "Hadewych van Kempen"
+    ],
+    {
+      "frac": 0.07369668,
+      "effort": "5.000000 km"
+    }
+  ],
+  [
+    [
+      "59",
+      "Hanspeter Schütz"
     ],
     {
       "frac": 0.07369668,

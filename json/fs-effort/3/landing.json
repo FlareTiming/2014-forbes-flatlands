@@ -10,7 +10,7 @@
     ],
     "sumOf": 3951
   },
-  "bestDistance": null,
+  "bestDistance": "153.582000 km",
   "difficulty": [
     {
       "endChunk": "5.1 km",
@@ -20,12 +20,12 @@
       "frac": 0.03227031,
       "downers": [
         [
-          "56",
-          "Maximilian Respondek"
-        ],
-        [
           "6",
           "Akiko Suzuki"
+        ],
+        [
+          "56",
+          "Maximilian Respondek"
         ]
       ],
       "downward": 3,
@@ -342,6 +342,6 @@
     }
   ],
   "lookahead": 256,
-  "minDistance": "0.000 km",
+  "minDistance": "5.000 km",
   "landout": 18
 }

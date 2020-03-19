@@ -10,7 +10,7 @@
     ],
     "sumOf": 4222
   },
-  "bestDistance": null,
+  "bestDistance": "152.903000 km",
   "difficulty": [
     {
       "endChunk": "5.1 km",
@@ -24,12 +24,12 @@
           "Ai Fukutomi"
         ],
         [
-          "64",
-          "Hadewych van Kempen"
-        ],
-        [
           "6",
           "Akiko Suzuki"
+        ],
+        [
+          "64",
+          "Hadewych van Kempen"
         ],
         [
           "59",
@@ -206,12 +206,12 @@
       "frac": 0.27427759,
       "downers": [
         [
-          "43",
-          "Rod Flockhart"
-        ],
-        [
           "39",
           "Jonny Durand"
+        ],
+        [
+          "43",
+          "Rod Flockhart"
         ],
         [
           "41",
@@ -222,8 +222,8 @@
       "rel": 0.0013027,
       "endAhead": "43.0 km",
       "downs": [
-        "30.347 km",
         "30.309 km",
+        "30.347 km",
         "30.355 km"
       ]
     },
@@ -628,6 +628,6 @@
     }
   ],
   "lookahead": 127,
-  "minDistance": "0.000 km",
+  "minDistance": "5.000 km",
   "landout": 36
 }

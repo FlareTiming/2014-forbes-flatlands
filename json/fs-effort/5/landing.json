@@ -10,7 +10,7 @@
     ],
     "sumOf": 3276
   },
-  "bestDistance": null,
+  "bestDistance": "111.766000 km",
   "difficulty": [
     {
       "endChunk": "5.1 km",
@@ -20,12 +20,12 @@
       "frac": 0.03113553,
       "downers": [
         [
-          "64",
-          "Hadewych van Kempen"
-        ],
-        [
           "6",
           "Akiko Suzuki"
+        ],
+        [
+          "64",
+          "Hadewych van Kempen"
         ],
         [
           "21",
@@ -629,20 +629,20 @@
       "frac": 0.36004274,
       "downers": [
         [
-          "43",
-          "Rod Flockhart"
-        ],
-        [
           "55",
           "Len Paton"
+        ],
+        [
+          "43",
+          "Rod Flockhart"
         ]
       ],
       "downward": 2,
       "rel": 0.0006105,
       "endAhead": "98.3 km",
       "downs": [
-        "91.984 km",
-        "91.969 km"
+        "91.969 km",
+        "91.984 km"
       ]
     },
     {
@@ -748,20 +748,20 @@
       "frac": 0.4751221,
       "downers": [
         [
-          "40",
-          "Lukas Bader"
-        ],
-        [
           "50",
           "Conrad Loten"
+        ],
+        [
+          "40",
+          "Lukas Bader"
         ]
       ],
       "downward": 8,
       "rel": 0.00152625,
       "endAhead": "113.7 km",
       "downs": [
-        "107.352 km",
-        "107.332 km"
+        "107.332 km",
+        "107.352 km"
       ]
     },
     {
@@ -867,20 +867,20 @@
       "frac": 0.49771062,
       "downers": [
         [
-          "3",
-          "Paris Williams"
-        ],
-        [
           "1",
           "Michael Bilyk"
+        ],
+        [
+          "3",
+          "Paris Williams"
         ]
       ],
       "downward": 1,
       "rel": 0.00045788,
       "endAhead": "116.6 km",
       "downs": [
-        "110.217 km",
-        "110.201 km"
+        "110.201 km",
+        "110.217 km"
       ]
     },
     {
@@ -904,6 +904,6 @@
     }
   ],
   "lookahead": 64,
-  "minDistance": "0.000 km",
+  "minDistance": "5.000 km",
   "landout": 52
 }

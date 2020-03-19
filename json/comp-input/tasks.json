@@ -126,14 +126,17 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": 0,
-      "leadingWeightScaling": 0
+      "arrivalTime": true,
+      "leadingWeightScaling": 0,
+      "leadingAreaDistanceSquared": false,
+      "arrivalRank": false
     },
     "startGates": [
       "2013-12-28T03:00:00Z",
       "2013-12-28T03:20:00Z",
       "2013-12-28T03:40:00Z"
     ],
+    "penalsAuto": [],
     "penals": [],
     "zoneTimes": [
       {
@@ -142,6 +145,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "0 s",
       "earliest": "300 s"
     }
@@ -219,8 +223,10 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": 0,
-      "leadingWeightScaling": 0
+      "arrivalTime": true,
+      "leadingWeightScaling": 0,
+      "leadingAreaDistanceSquared": false,
+      "arrivalRank": false
     },
     "startGates": [
       "2013-12-29T03:00:00Z",
@@ -228,6 +234,7 @@
       "2013-12-29T03:30:00Z",
       "2013-12-29T03:45:00Z"
     ],
+    "penalsAuto": [],
     "penals": [],
     "zoneTimes": [
       {
@@ -236,6 +243,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "0 s",
       "earliest": "300 s"
     }
@@ -331,14 +339,17 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": 0,
-      "leadingWeightScaling": 0
+      "arrivalTime": true,
+      "leadingWeightScaling": 0,
+      "leadingAreaDistanceSquared": false,
+      "arrivalRank": false
     },
     "startGates": [
       "2013-12-30T03:30:00Z",
       "2013-12-30T03:50:00Z",
       "2013-12-30T04:10:00Z"
     ],
+    "penalsAuto": [],
     "penals": [],
     "zoneTimes": [
       {
@@ -347,6 +358,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "0 s",
       "earliest": "300 s"
     }
@@ -460,14 +472,17 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": 0,
-      "leadingWeightScaling": 0
+      "arrivalTime": true,
+      "leadingWeightScaling": 0,
+      "leadingAreaDistanceSquared": false,
+      "arrivalRank": false
     },
     "startGates": [
       "2013-12-31T03:15:00Z",
       "2013-12-31T03:35:00Z",
       "2013-12-31T03:55:00Z"
     ],
+    "penalsAuto": [],
     "penals": [],
     "zoneTimes": [
       {
@@ -476,6 +491,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "0 s",
       "earliest": "300 s"
     }
@@ -571,13 +587,16 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": 0,
-      "leadingWeightScaling": 0
+      "arrivalTime": true,
+      "leadingWeightScaling": 0,
+      "leadingAreaDistanceSquared": false,
+      "arrivalRank": false
     },
     "startGates": [
       "2014-01-01T03:00:00Z",
       "2014-01-01T03:30:00Z"
     ],
+    "penalsAuto": [],
     "penals": [],
     "zoneTimes": [
       {
@@ -586,6 +605,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "0 s",
       "earliest": "300 s"
     }
@@ -681,13 +701,16 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": 0,
-      "leadingWeightScaling": 0
+      "arrivalTime": true,
+      "leadingWeightScaling": 0,
+      "leadingAreaDistanceSquared": false,
+      "arrivalRank": false
     },
     "startGates": [
       "2014-01-03T03:00:00Z",
       "2014-01-03T03:30:00Z"
     ],
+    "penalsAuto": [],
     "penals": [],
     "zoneTimes": [
       {
@@ -696,6 +719,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "0 s",
       "earliest": "300 s"
     }
@@ -773,13 +797,16 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": 0,
-      "leadingWeightScaling": 0
+      "arrivalTime": true,
+      "leadingWeightScaling": 0,
+      "leadingAreaDistanceSquared": false,
+      "arrivalRank": false
     },
     "startGates": [
       "2014-01-04T03:00:00Z",
       "2014-01-04T03:30:00Z"
     ],
+    "penalsAuto": [],
     "penals": [],
     "zoneTimes": [
       {
@@ -788,6 +815,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "0 s",
       "earliest": "300 s"
     }
